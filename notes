@@ -1,0 +1,70 @@
+DApps 14/02/2023
+Dapps consists of ( Smart Contracts + Front End ) ->(deploy in) Decentralized Network
+
+Web3.js / ether.js - Connect front-end with smart contracts
+
+Concepts of OOPs
+
+Secondary things/skills 
+Database, Server
+
+Hyperledger - Private blockchain. Open-source 
+Etherium (public)
+
+Other things to learn
+NFT, NFT Marketplace, Geth, Truffle, Hardhat, Ganache, IPFS
+
+What is Blockchain
+
+Distributed immutable ledger.
+
+Ledger - where transactions are recorded.  (may be a book/ database)
+Block of the blockchain used as ledger. 
+
+Immutable - can’t be tampered. Any transaction recorded on block can’t be edited
+
+Distributed - all over the network
+
+Miner is a particular person who mines a block and creates a block. When one mined a block it’ll distributed to others after verification
+
+Bitcoin Average Transactions Per Block - 1918.78 for Feb 13 2023
+https://ycharts.com/indicators/bitcoin_average_transactions_per_block/ 
+
+Etherium - 16/02/2022
+Vitalik Buterin - 2013 (19 years old) he want run programs on top of blockchain
+
+
+Technology - blockchain
+Protocol / Coin - Etherium/ bitcoin/ wave/ neo. Rules 
+Token -   ICO (inital coin offer)
+
+Ethereum Account 
+Wallet -  Metamask, myether 
+
+23/02/2023 Thursday
+Etherium is turing complete while bitcoin is turing incomplete
+The scripting language used in Bitcoin is intentionally designed as Turing Incomplete because it serves its purpose and increased complexity would potentially introduce problems. By keeping it simple, the developers can predict with high accuracy how it is going to react in the finite number of situations in which it is used.
+
+Ethereum, on the other hand, is built as a Turing Complete blockchain. This is important because it needs to understand the agreements which make up smart contracts. By being Turing Complete, Ethereum has the capability to understand and implement any future agreement, even those that have not been thought of yet. In other words, Ethereum’s Turing Completeness means that it is able to use its code base to perform virtually any task, as long as it has the correct instructions, enough time and processing power.
+
+Ethereum 2.0, also known as Serenity, is a massive upgrade to the Ethereum blockchain that will bring about many changes. These changes include sharding, proof-of-stake, and moving EVM to eWASM. These upgrades are essential because they will make Ethereum faster, more scalable, and more secure.
+
+Ethereum Name Service (ENS) is a name and lookup service built on the Ethereum blockchain that allows crypto users to translate their machine-readable addresses to human-readable addresses. Think of it as a nickname generator for public Ethereum addresses, aiming to make crypto more accessible.
+
+The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain. ENS's job is to map human-readable names like 'alice.eth' to machine-readable identifiers (eg: “0xDC25EF3F5B8A186998338A2ADA83795FBA2D695E”) such as Ethereum addresses, other cryptocurrency addresses, content hashes, and metadata.
+
+zk-SNARK is a type of zero-knowledge proof system that enables the verification of a statement without revealing any information beyond the truth of the statement itself. "zk" stands for "zero-knowledge" and "SNARK" stands for "succinct non-interactive argument of knowledge."
+ 
+zk-SNARKs can be used to provide privacy and confidentiality while still allowing for verification of transactions. For example, in a cryptocurrency like Bitcoin, the blockchain records all transactions publicly, which means that anyone can see the sender, receiver, and amount of each transaction.
+
+However, with zk-SNARKs, a user can prove that they have enough funds to make a transaction without revealing their account balance or the details of previous transactions. This provides greater privacy and confidentiality for users while still allowing for secure and verifiable transactions on the blockchain.
+
+Additionally, zk-SNARKs can also be used to enable smart contracts that preserve privacy. With traditional smart contracts, the conditions and outcomes of the contract are publicly visible on the blockchain. But with zk-SNARKs, the terms of the contract can be kept private, while still allowing for verification that the contract was executed correctly.
+
+Overall, zk-SNARKs have the potential to greatly enhance the privacy and security of blockchain systems, making them more appealing to users who value confidentiality and control over their personal information.
+
+zk-SNARKs are used in several blockchain projects to provide privacy, confidentiality, and efficient verification. Some examples include:
+Ethereum: Ethereum is a blockchain platform that allows for the creation of smart contracts. The platform has implemented zk-SNARKs through a technology called "ZK-rollups" to enhance scalability and privacy in transactions.
+Zcash
+Binance Smart Chain
+Filecoin
